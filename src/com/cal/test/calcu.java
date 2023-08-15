@@ -70,6 +70,7 @@ public class calcu extends JFrame {
                     case 5:
                         metodos.Salir();
                         break;
+                    
                 }
             }
         });
